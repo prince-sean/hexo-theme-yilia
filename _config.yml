@@ -6,18 +6,18 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/prince-sean"
+  # weibo: "#"
+  # rss: "#"
+  zhihu: "https://www.zhihu.com/people/sheng-cheng-2-95/activities"
   #qq: "#"
   #weixin: "#"
-  #jianshu: "#"
+  jianshu: "https://www.jianshu.com/u/34f58851c588"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "ssxhjjh@163.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -45,11 +45,11 @@ open_in_new: false
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
 reward_type: 2
 # 打赏wording
-reward_wording: '谢谢你请我吃糖果'
+reward_wording: '请不吝赐教'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: 
+alipay: assets/Alipay.png
 # 微信二维码图片地址
-weixin: 
+weixin: assets/WechatPay.jpeg
 
 # 目录
 # 目录设定：0-不显示目录； 1-文章对应的md文件里有toc:true属性，才有目录； 2-所有文章均显示目录
@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1418222182,136239809&fm=26&gp=0.jpg
 
 #是否开启分享
 share_jia: true
@@ -116,15 +116,15 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  # friends: '友链'
   aboutme: '关于我'
 
-friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+# friends:
+#   友情链接1: http://localhost:4000/
+#   友情链接2: http://localhost:4000/
+#   友情链接3: http://localhost:4000/
+#   友情链接4: http://localhost:4000/
+#   友情链接5: http://localhost:4000/
+#   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: So Incredible<br><br>一个爱折腾的Coder<br>欢迎指教
